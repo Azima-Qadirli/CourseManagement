@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\Management system of course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED8C36-E00E-4BEC-9068-DB6A906CD474}|Management system of course\\Management system of course.csproj|c:\\users\\test\\onedrive\\desktop\\management system of course\\management system of course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED8C36-E00E-4BEC-9068-DB6A906CD474}|Management system of course\\Management system of course.csproj|solutionrelative:management system of course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED8C36-E00E-4BEC-9068-DB6A906CD474}|Management system of course\\Management system of course.csproj|c:\\users\\test\\onedrive\\desktop\\management system of course\\management system of course\\mentormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED8C36-E00E-4BEC-9068-DB6A906CD474}|Management system of course\\Management system of course.csproj|solutionrelative:management system of course\\mentormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFED8C36-E00E-4BEC-9068-DB6A906CD474}|Management system of course\\Management system of course.csproj|c:\\users\\test\\onedrive\\desktop\\management system of course\\management system of course\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED8C36-E00E-4BEC-9068-DB6A906CD474}|Management system of course\\Management system of course.csproj|solutionrelative:management system of course\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Management system of course\\Management system of course\\Group.cs",
+              "RelativeDocumentMoniker": "Management system of course\\Group.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Management system of course\\Management system of course\\Group.cs",
+              "RelativeToolTip": "Management system of course\\Group.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:50:12.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MentorManagement.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Management system of course\\Management system of course\\MentorManagement.cs",
+              "RelativeDocumentMoniker": "Management system of course\\MentorManagement.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Management system of course\\Management system of course\\MentorManagement.cs",
+              "RelativeToolTip": "Management system of course\\MentorManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:49:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\Management system of course\\Management system of course\\Program.cs",
+              "RelativeDocumentMoniker": "Management system of course\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\Management system of course\\Management system of course\\Program.cs",
+              "RelativeToolTip": "Management system of course\\Program.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAA9wM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:22:20.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\bin\Debug\net8.0\Management system of course.exe
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\bin\Debug\net8.0\Management system of course.deps.json
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\bin\Debug\net8.0\Management system of course.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\bin\Debug\net8.0\Management system of course.dll
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\bin\Debug\net8.0\Management system of course.pdb
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.dll
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\refint\Management system of course.dll
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.pdb
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\ref\Management system of course.dll
