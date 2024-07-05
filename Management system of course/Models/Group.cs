@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Management_system_of_course
+namespace Management_system_of_course.Models
 {
     public class Group
     {

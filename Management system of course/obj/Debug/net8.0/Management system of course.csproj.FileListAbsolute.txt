@@ -12,3 +12,18 @@ C:\Users\test\OneDrive\Desktop\Management system of course\Management system of 
 C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.pdb
 C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\Management system of course.genruntimeconfig.cache
 C:\Users\test\OneDrive\Desktop\Management system of course\Management system of course\obj\Debug\net8.0\ref\Management system of course.dll
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\bin\Debug\net8.0\Management system of course.exe
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\bin\Debug\net8.0\Management system of course.deps.json
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\bin\Debug\net8.0\Management system of course.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\bin\Debug\net8.0\Management system of course.dll
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\bin\Debug\net8.0\Management system of course.pdb
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.dll
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\refint\Management system of course.dll
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.pdb
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\Management system of course.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\Tasks\CourseManagement\Management system of course\obj\Debug\net8.0\ref\Management system of course.dll

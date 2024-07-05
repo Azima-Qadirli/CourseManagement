@@ -1,4 +1,6 @@
 ﻿using System;
+using Management_system_of_course.Management;
+using Management_system_of_course.Models;
 
 namespace Management_system_of_course
 {
@@ -22,26 +24,33 @@ namespace Management_system_of_course
                 Console.Write("Select an option: ");
 
                 int choice = int.Parse(Console.ReadLine());
-
-                switch (choice)
+                Console.Clear();
+                try
                 {
-                    case 1:
-                        ManageGroups(groupManagement, teacherManagement, studentManagement, mentorManagement);
-                        break;
-                    case 2:
-                        ManageMentors(mentorManagement);
-                        break;
-                    case 3:
-                        ManageStudents(studentManagement);
-                        break;
-                    case 4:
-                        ManageTeachers(teacherManagement);
-                        break;
-                    case 5:
-                        return;
-                    default:
-                        Console.WriteLine("Invalid option. Please select a valid option.");
-                        break;
+                    switch (choice)
+                    {
+                        case 1:
+                            ManageGroups(groupManagement, teacherManagement, studentManagement, mentorManagement);
+                            break;
+                        case 2:
+                            ManageMentors(mentorManagement);
+                            break;
+                        case 3:
+                            ManageStudents(studentManagement);
+                            break;
+                        case 4:
+                            ManageTeachers(teacherManagement);
+                            break;
+                        case 5:
+                            return;
+                        default:
+                            Console.WriteLine("Invalid option. Please select a valid option.");
+                            break;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
                 }
             }
         }
@@ -62,6 +71,7 @@ namespace Management_system_of_course
                 Console.Write("Select an option: ");
 
                 int choice = int.Parse(Console.ReadLine());
+                Console.Clear();
 
                 switch (choice)
                 {
@@ -166,6 +176,7 @@ namespace Management_system_of_course
                 Console.Write("Select an option: ");
 
                 int choice = int.Parse(Console.ReadLine());
+                Console.Clear();
 
                 switch (choice)
                 {
@@ -204,7 +215,6 @@ namespace Management_system_of_course
             }
         }
 
-
         static void ManageStudents(StudentManagement studentManagement)
         {
             while (true)
@@ -218,6 +228,7 @@ namespace Management_system_of_course
                 Console.Write("Select an option: ");
 
                 int choice = int.Parse(Console.ReadLine());
+                Console.Clear();
 
                 switch (choice)
                 {
@@ -263,8 +274,9 @@ namespace Management_system_of_course
                 Console.WriteLine("4. Display All Teachers");
                 Console.WriteLine("5. Back to Main Menu");
                 Console.Write("Select an option: ");
-                
+
                 int choice = int.Parse(Console.ReadLine());
+                Console.Clear();
 
                 switch (choice)
                 {

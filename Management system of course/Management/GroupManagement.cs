@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using Management_system_of_course.Management.Interfaces;
+using Management_system_of_course.Models;
 
-namespace Management_system_of_course
+namespace Management_system_of_course.Management
 {
-    public class GroupManagement
+    public class GroupManagement : IGroupManagement
     {
         public List<Group> Groups { get; set; } = new List<Group>();
 
-        public void AddGroup(string groupCode, string groupName)
+        public void Add(string groupCode, string groupName)
         {
             try
             {

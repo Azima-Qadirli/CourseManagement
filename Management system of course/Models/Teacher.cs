@@ -1,6 +1,7 @@
 ﻿using System;
+using Management_system_of_course.Models.BaseEntities;
 
-namespace Management_system_of_course
+namespace Management_system_of_course.Models
 {
     public class Teacher : Entity
     {
